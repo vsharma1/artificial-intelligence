@@ -1,0 +1,32 @@
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me something
+GetNewFactIntent a space fact
+GetNewFactIntent tell me a space fact
+GetNewFactIntent give me a space fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a space trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a space trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some space information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent tell me some space information
+GetNewYearFactIntent a fact {FACT_YEAR} 
+GetNewYearFactIntent tell me a fact {FACT_YEAR} 
+GetNewYearFactIntent give me a fact {FACT_YEAR} 
+GetNewYearFactIntent give me something {FACT_YEAR} 
+GetNewYearFactIntent a space fact {FACT_YEAR} 
+GetNewYearFactIntent tell me a space fact {FACT_YEAR} 
+GetNewYearFactIntent give me a space fact {FACT_YEAR} 
+GetNewYearFactIntent tell me trivia {FACT_YEAR} 
+GetNewYearFactIntent tell me a space trivia {FACT_YEAR} 
+GetNewYearFactIntent give me trivia {FACT_YEAR} 
+GetNewYearFactIntent give me a space trivia {FACT_YEAR} 
+GetNewYearFactIntent give me some information {FACT_YEAR} 
+GetNewYearFactIntent give me some space information {FACT_YEAR} 
+GetNewYearFactIntent tell me something {FACT_YEAR} 
+GetNewYearFactIntent give me something {FACT_YEAR} 
+GetNewYearFactIntent tell me some space information {FACT_YEAR} 
